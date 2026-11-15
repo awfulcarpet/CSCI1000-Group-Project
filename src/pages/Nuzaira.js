@@ -14,7 +14,8 @@ export default function MyPage() {
 
       <h2>My Interests</h2>
       <p>
-        I am interested in technology, artificial intelligence, and business.
+        I am interested in technology, artificial intelligence, and business and
+        I also ceated this.
       </p>
 
       <h2>My Goals</h2>

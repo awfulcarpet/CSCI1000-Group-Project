@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .next/
 node_modules/
+=======
+node_modules/*
+.next/*
+>>>>>>> 06124fe (update kyle's readme to exclude spiderman references from example)

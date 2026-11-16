@@ -16,7 +16,9 @@ export default function examplePage() {
 
 			<p className='recent'>
 		Recently I've been testing out several nix-related projects as I build
-		my system configuration(s).
+		my system configuration(s).  Currently, I've been building my own custom
+		derivations to package software, specifically Digilent Waveforms,
+		used for my ECEN2250 Intro to Circuits class.
 			</p>
 
           <a className='button' href='/'>

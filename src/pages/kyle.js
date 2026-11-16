@@ -6,9 +6,8 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, I am kyle</h1>
+            <h1 className='title'>Hello, I am Kyle</h1>
           </div>
-          />
 
           <p className='description'>
 			Just a programmer at CU.
